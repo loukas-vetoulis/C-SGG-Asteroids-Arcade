@@ -1,0 +1,27 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  asteroid.cpp
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(17,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(18,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(19,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(25,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(25,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(32,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\asteroid.cpp(32,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameobject.cpp
+  gamestate.cpp
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(16,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(29,26): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Loukas\Desktop\Stage1\Stage1\gamestate.cpp(125,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\gamestate.cpp(159,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  level.cpp
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(16,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(29,26): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  main.cpp
+  player.cpp
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(16,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.h(29,26): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.cpp(83,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.cpp(84,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Loukas\Desktop\Stage1\Stage1\player.cpp(146,23): warning C4804: '>': unsafe use of type 'bool' in operation
+  Generating Code...
+  Stage1.vcxproj -> C:\Users\Loukas\Desktop\Stage1\bin\Stage1.exe
